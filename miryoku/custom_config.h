@@ -16,5 +16,5 @@ U_NP,              U_NP,              &kp LSHIFT,        &mo U_SYM,         &kp 
 #define MIRYOKU_LAYER_NAV \
 &kp F1,            &kp F2,            &kp F3,            &kp F4,            &kp F5,            &kp F6,            &kp F7,            &kp F8,            &kp F9,            &kp F10,           \
 &kp LGUI,          &kp LALT,          &kp LCTRL,         &kp LSHFT,         &kp ESC,           &kp LEFT,          &kp DOWN,          &kp UP,            &kp RIGHT,         &kp GRAVE,         \
-&bt BT_SEL(0),     &bt BT_SEL(1),      &bt BT_SEL(2),    &bt BT_CLR,        U_NA,              U_RDO,             U_PST,             &kp PIPE,          &kp BLSH,          &kp TILDE,         \
+&bt BT_SEL 0,      &bt BT_SEL 1,      &bt BT_SEL 2,      &bt BT_CLR,        U_NA,              U_NA,              U_NA,              &kp PIPE,          &kp BLSH,          &kp TILDE,         \
 U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              U_NA,              &kp SPACE,         &mo U_NAV,         U_NP,              U_NP
