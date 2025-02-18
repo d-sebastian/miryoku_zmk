@@ -13,8 +13,8 @@ U_NP,              U_NP,              &kp LSHIFT,        &mo U_SYM,         &kp 
 &kp N6,            &kp N7,            &kp N8,            &kp N9,            &kp N0,            &kp UNDER,         &kp KP_PLUS,       &kp LBRC,          &kp RBRC,          &kp DQT,           \
 U_NP,              U_NP,              &kp LSHIFT,        &mo U_SYM,         &kp RET,           &kp TAB,           &kp ESC,           &kp LALT,              U_NP,              U_NP
 
-//#define MIRYOKU_LAYER_NAV \
-//&kp F1,            &kp F2,            &kp F3,            &kp F4,            &kp F5,            &kp F6,            &kp F7,            &kp F8,            &kp F9,            &kp F10,           \
-//&kp LGUI,          &kp LALT,          &kp LCTRL,         &kp LSHFT,         &kp ESC,           &kp LEFT,          &kp DOWN,          &kp UP,            &kp RIGHT,         &kp GRAVE,         \
-//&u_bt_sel_0,       &u_bt_sel_1,       &u_bt_sel_2,       &u_bt_clr,         U_NA,              U_RDO,             U_PST,             &kp PIPE,          &kp BLSH,          &kp TILDE,         \
-//U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              U_NA,              &kp SPACE,         &u_mo_U_NAV,             U_NP,              U_NP
+#define MIRYOKU_LAYER_NAV \
+&kp F1,            &kp F2,            &kp F3,            &kp F4,            &kp F5,            &kp F6,            &kp F7,            &kp F8,            &kp F9,            &kp F10,           \
+&kp LGUI,          &kp LALT,          &kp LCTRL,         &kp LSHFT,         &kp ESC,           &kp LEFT,          &kp DOWN,          &kp UP,            &kp RIGHT,         &kp GRAVE,         \
+&bt BT_SEL 0,      &bt BT_SEL 1,      &bt BT_SEL 2,      &bt BT_CLR,        U_NA,              U_RDO,             U_PST,             &kp PIPE,          &kp BLSH,          &kp TILDE,         \
+U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              U_NA,              &kp SPACE,         &mo U_NAV,         U_NP,              U_NP
