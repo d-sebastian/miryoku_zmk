@@ -5,7 +5,7 @@
 &kp Q,             &kp W,             &kp E,             &kp R,             &kp T,             &kp Y,             &kp U,             &kp I,             &kp O,             &kp P,             \
 &kp A,             &kp S,             &kp D,             &kp F,             &kp G,             &kp H,             &kp J,             &kp K,             &kp L,             &kp SEMI,          \
 &kp Z,             &kp X,             &kp C,             &kp V,             &kp B,             &kp N,             &kp M,             &kp COMMA,         &kp DOT,           &kp SLASH,         \
-U_NP,              U_NP,              &kp LSHIFT,        U_SYM,             &kp RET,           U_MT(LCTRL, BSPC),   &kp SPACE,         U_NAV,             U_NP,              U_NP
+U_NP,              U_NP,              &kp LSHIFT,        U_SYM,             &kp RET,           U_MT(LCTRL, BSPC), &kp SPACE,         U_NAV,             U_NP,              U_NP
 
 #define MIRYOKU_LAYER_SYM \
 &kp EXCL,          &kp AT,            &kp HASH,          &kp DOLLAR,        &kp PERCENT,       &kp CARET,         &kp AMPERSAND,     &kp LPAR,          &kp RPAR,          &kp STAR,          \
@@ -16,5 +16,5 @@ U_NP,              U_NP,              &kp LSHIFT,        U_SYM,             &kp 
 #define MIRYOKU_LAYER_NAV \
 &kp F1,            &kp F2,            &kp F3,            &kp F4,            &kp F5,            &kp F6,            &kp F7,            &kp F8,            &kp F9,            &kp F10,           \
 &kp LGUI,          &kp LALT,          &kp LCTRL,         &kp LSHFT,         &kp ESC,           &kp LEFT,          &kp DOWN,          &kp UP,            &kp RIGHT,         &kp GRAVE,         \
-BT_SEL 0,          BT_SEL 1,          BT_SEL 2,          BT_CLR,            U_NA,              U_RDO,             U_PST,             &kp PIPE,          &kp BLSH,          &kp TILDE,         \
+&bt BT_SEL 0,      &bt BT_SEL 1,      &bt BT_SEL 2,      &bt BT_CLR,        U_NA,              U_RDO,             U_PST,             &kp PIPE,          &kp BLSH,          &kp TILDE,         \
 U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              U_NA,              &kp SPACE,         U_NAV,             U_NP,              U_NP
