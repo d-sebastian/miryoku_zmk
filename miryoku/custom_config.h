@@ -4,8 +4,8 @@
 #define MIRYOKU_LAYER_BASE \
 &kp Q,             &kp W,             &kp E,             &kp R,             &kp T,             &kp Y,             &kp U,             &kp I,             &kp O,             &kp P,             \
 &kp A,             &kp S,             &kp D,             &kp F,             &kp G,             &kp H,             &kp J,             &kp K,             &kp L,             &kp SEMI,          \
-&kp Z,             &kp X,             &kp C,             &kp V,             &kp B,             &kp N,             &kp M,             &kp COMMA,         &kp DOT,           &kp SLASH,         \
-U_NP,              U_NP,              U_MT(LSHIFT, TAB), &mo U_SYM,         U_MT(LCTRL, RET),  &kp BSPC,          &kp SPACE,         &mo U_NAV,         U_NP,              U_NP
+&kp Z,             &kp X,             &kp C,             &kp V,             &kp B,             &kp N,             &kp M,             &kp COMMA,         &kp DOT,           U_MT(LALT, SLASH), \
+U_NP,              U_NP,              &kp LSHIFT,        U_LT(U_SYM, TAB),  U_MT(LCTRL, RET),  &kp BSPC,          &kp SPACE,         &mo U_NAV,         U_NP,              U_NP
 
 #define MIRYOKU_LAYER_SYM \
 &kp EXCL,          &kp AT,            &kp HASH,          &kp DOLLAR,        &kp PERCENT,       &kp CARET,         &kp AMPERSAND,     &kp LPAR,          &kp RPAR,          &kp STAR,          \
