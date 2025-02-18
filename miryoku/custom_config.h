@@ -11,7 +11,7 @@ U_NP,              U_NP,              &kp LSHIFT,        &mo U_SYM,         &kp 
 &kp EXCL,          &kp AT,            &kp HASH,          &kp DOLLAR,        &kp PERCENT,       &kp CARET,         &kp AMPERSAND,     &kp LPAR,          &kp RPAR,          &kp STAR,          \
 &kp N1,            &kp N2,            &kp N3,            &kp N4,            &kp N5,            &kp MINUS,         &kp KP_EQUAL,      &kp LBKT,          &kp RBKT,          &kp APOS,          \
 &kp N6,            &kp N7,            &kp N8,            &kp N9,            &kp N0,            &kp UNDER,         &kp KP_PLUS,       &kp LBRC,          &kp RBRC,          &kp DQT,           \
-U_NP,              U_NP,              &kp LSHIFT,        &u_mo_U_SYM,       &kp RET,           &kp TAB,           &kp ESC,           &kp LALT,              U_NP,              U_NP
+U_NP,              U_NP,              &kp LSHIFT,        &mo U_SYM,         &kp RET,           &kp TAB,           &kp ESC,           &kp LALT,              U_NP,              U_NP
 
 //#define MIRYOKU_LAYER_NAV \
 //&kp F1,            &kp F2,            &kp F3,            &kp F4,            &kp F5,            &kp F6,            &kp F7,            &kp F8,            &kp F9,            &kp F10,           \
