@@ -5,7 +5,7 @@
 &kp Q,             &kp W,             &kp E,             &kp R,             &kp T,             &kp Y,             &kp U,             &kp I,             &kp O,             &kp P,             \
 &kp A,             &kp S,             &kp D,             &kp F,             &kp G,             &kp H,             &kp J,             &kp K,             &kp L,             &kp SEMI,          \
 &kp Z,             &kp X,             &kp C,             &kp V,             &kp B,             &kp N,             &kp M,             &kp COMMA,         &kp DOT,           &kp SLASH,         \
-U_NP,              U_NP,              &kp LSHIFT,        &u_mo_U_SYM,       &kp RET,           &kp LCTRL,         &kp SPACE,         &u_mo_U_NAV,       U_NP,              U_NP
+U_NP,              U_NP,              &kp LSHIFT,        &mo U_SYM,         &kp RET,           &kp LCTRL,         &kp SPACE,         &mo U_NAV,         U_NP,              U_NP
 
 #define MIRYOKU_LAYER_SYM \
 &kp EXCL,          &kp AT,            &kp HASH,          &kp DOLLAR,        &kp PERCENT,       &kp CARET,         &kp AMPERSAND,     &kp LPAR,          &kp RPAR,          &kp STAR,          \
